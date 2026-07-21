@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//check if an array is sorted in ascending order
 int main() {
     int n;
     cin>>n;
