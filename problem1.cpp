@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//reverse an array
 int main() {
     int n;
     cin>>n;

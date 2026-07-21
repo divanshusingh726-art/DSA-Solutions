@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//find second largest element in an array
 int main() {
     int n;
     cin>>n;

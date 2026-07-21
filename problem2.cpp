@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// Find total even no. and odd no. in an array
 int main() {
     int n;
     cin>>n;
