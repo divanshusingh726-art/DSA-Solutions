@@ -5,9 +5,15 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
