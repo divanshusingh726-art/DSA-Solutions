@@ -26,4 +26,12 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/divanshusingh726-art/DSA-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
